@@ -1,0 +1,8 @@
+/*
+
+!.gitignore
+!flake.nix
+!src
+!flake.lock
+!CMakeLists.txt
+!README.md
