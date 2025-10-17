@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+rm -rdf build
+cmake -B build
